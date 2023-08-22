@@ -2,9 +2,18 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="80" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ThomasAgu&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasAgu&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&custom_title=GitHub Stat's" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ThomasAgu&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasAgu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=synthwave&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
@@ -35,10 +44,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="80" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif"  />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thomas-aguado/" target="_blank">
