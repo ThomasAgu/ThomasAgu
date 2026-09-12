@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Thomas Aguado</h1>
+<h1 align="center">Hello reader 🤝, I'm Thomas Aguado</h1>
 
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Thomas Aguado Banner" width="100%" />
+  <img src="./banner.jpg" alt="Thomas Aguado Banner" width="100%" />
 </p>
 
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;|&nbsp; <b>Teaching Assistant at UNLP</b> &nbsp;
+  <b>Software Engineer</b> &nbsp;|&nbsp; <b>Teaching Assistant at UNLP</b> &nbsp; |&nbsp; <b>Web developer</b> &nbsp;
 </p>
 
 -------------------
 
 <h3 align="left">
-  Hi 👋, I'm Thomas, a Software Engineer based in Argentina, working in the tech industry since 2022. 
+  I'm Thomas, a Software Engineer living in Argentina, working in the tech industry since 2022. 
   Currently working as a Software Engineer at Avature and serving as a Teaching Assistant at the National University of La Plata (UNLP).
 </h3>
 
@@ -72,11 +72,6 @@
 &emsp;
 
 ## 📈 My GitHub Stats
-
-<p align="center">
-  <img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ThomasAgu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Thomas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAgu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>
 
 <p align="center">
   <img alt="Thomas's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasAgu&theme=tokyonight" />
