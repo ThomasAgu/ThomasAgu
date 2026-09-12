@@ -1,4 +1,4 @@
-<h1 align="center">Hello reader 🤝, I'm Thomas Aguado</h1>
+<h1 align="center">What are you doing here 👀? </h1>
 
 <p align="center">
   <img src="./banner.jpg" alt="Thomas Aguado Banner" width="100%" />
@@ -12,7 +12,7 @@
 -------------------
 
 <h3 align="left">
-  I'm Thomas, a Software Engineer living in Argentina, working in the tech industry since 2022. 
+  Hi 🙋‍♂️ I'm Thomas, a Software Engineer living in Argentina, working in the tech industry since 2022. 
   Currently working as a Software Engineer at Avature and serving as a Teaching Assistant at the National University of La Plata (UNLP).
 </h3>
 
